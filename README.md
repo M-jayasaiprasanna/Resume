@@ -10,7 +10,7 @@
 
 ### Educational details
 
--B.Tech
+#### -B.Tech
 
   -RVR&JC College of Engineering
   
@@ -20,7 +20,7 @@
   
   -Guntur,Andhra Pradesh,India
 
--Intermediate
+#### -Intermediate
 
   -Sri chaitanya Jr. College
   
@@ -30,7 +30,7 @@
   
   -Vijayawada,Andhra Pradesh,India
 
--SSC
+#### -SSC
 
   -AVN High School
   
